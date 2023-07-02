@@ -2,8 +2,7 @@ import java.util.Scanner;
 
 import static java.lang.Integer.parseInt;
 
-//1) Вычислить n-ое треугольного число (сумма чисел от 1 до n),
-//  n! (Факториал,произведение чисел от 1 до n)
+//1) Вычислить n-ое треугольного число (сумма чисел от 1 до n),n! (произведение чисел от 1 до n)
 public class Task1_1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
